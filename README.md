@@ -51,4 +51,4 @@ Understand profit performance across regions.
 # OUTPUT:
 
 
-
+![Image](https://github.com/user-attachments/assets/2989065f-de73-4680-bd75-4179c871a925)
